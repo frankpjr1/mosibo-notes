@@ -1,4 +1,3 @@
-- **[[MOSIMBA CLASS NOTES]
 - Key Internet Concepts
 	- history
 	- architecture
@@ -6,4 +5,3 @@
 - Coding
 	- [[Git]]
 	- [[Logseq]]
-	- [[Php Storm]]
